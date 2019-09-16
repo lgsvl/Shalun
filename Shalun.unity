@@ -299,12 +299,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b257125a3baa9944b5aa5948953ce7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OriginEasting: 0
-  OriginNorthing: 0
-  UTMZoneId: 0
-  AltitudeOffset: 0
-  TimeZoneSerialized: 
-  TimeZoneString: 
+  OriginEasting: 215743.61
+  OriginNorthing: 2546179
+  UTMZoneId: 51
+  AltitudeOffset: 27.85
+  TimeZoneSerialized: Taipei Standard Time;480;(UTC+08:00) Taipei;Taipei Standard
+    Time;Taipei Standard Time;;
+  TimeZoneString: (UTC+08:00) Taipei
 --- !u!4 &1396294166
 Transform:
   m_ObjectHideFlags: 0

@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 22b10dc08b6b21d4dba7d7fe7cc354f0
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunArrow
+    second: {fileID: 2100000, guid: 2e47fd22b68b69f4a9db16898a1af713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunAsphalt
+    second: {fileID: 2100000, guid: 3a5a0f4ca83c4a04596aa9ea2d9db2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunBuilding1
+    second: {fileID: 2100000, guid: 40c263bc18fb1a142b0e7ab68ab140b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunBuilding5
+    second: {fileID: 2100000, guid: e85aedb295dfb4044abd6933adfcb384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunBusShelter
+    second: {fileID: 2100000, guid: 7e78cd69e01fdbd4b984f090ef4c1ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunCautionTape
+    second: {fileID: 2100000, guid: a8997d785f40c2d42a37efcca6af98bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunCrosswalk
+    second: {fileID: 2100000, guid: 13e3d360f38bc1545be64280e006bd61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunCurb17
+    second: {fileID: 2100000, guid: 697e694223a47e04984e4ba62ab687b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunFence
+    second: {fileID: 2100000, guid: 43de947a4f586fe4ca8a11b92d919585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunGrass20
+    second: {fileID: 2100000, guid: 37d705e41cda1af43985502687699010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunLight
+    second: {fileID: 2100000, guid: ec8607637a0beea4e82723f90aa8d979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunMetal
+    second: {fileID: 2100000, guid: 145d6de88554aa44e8605fcea9ea5bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunSideWalk
+    second: {fileID: 2100000, guid: 7a2c7c5b57b1d6847a4f3d0dbf1cf9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteBrokenSingle
+    second: {fileID: 2100000, guid: f5a15a9ed85656d4480ae394f9aa7ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteBrokenSingleSideWhiteSolidStopLine
+    second: {fileID: 2100000, guid: a6056add19b343c46be38b971a6adaac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidEvenFiveStopLine
+    second: {fileID: 2100000, guid: bd68299be36ebdd40ad482079f27bba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFive
+    second: {fileID: 2100000, guid: 048cf077685f6bc4581898b232f94b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFiveStopLine
+    second: {fileID: 2100000, guid: b963e5ac3b1be3648aabaa413b704349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFourWhiteBrokenSingle
+    second: {fileID: 2100000, guid: 94f24fd03bff19e4faa795185f57e70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFourWhiteBrokenSingleStopLineBottom
+    second: {fileID: 2100000, guid: 5491957f750924d4dad38bc8c90d75a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFourWhiteBrokenSingleStopLineTop
+    second: {fileID: 2100000, guid: 0ad84a63edeff8b48b7027a7ae960361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidSixStopLine
+    second: {fileID: 2100000, guid: 3c02a0d7ac17c0649b75567ad4493183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidThreeWhiteBrokenTwo
+    second: {fileID: 2100000, guid: fd928a33dcd41e343b143d8e7b99c6b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidThreeWhiteBrokenTwoStopLine
+    second: {fileID: 2100000, guid: 7a44b21e3a376ff428dfd3ab6f996836, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

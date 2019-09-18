@@ -12,8 +12,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ShalunArrowInside
+    second: {fileID: 2100000, guid: 5dcaa6e8a43c15546bbc48cb3814d9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ShalunAsphalt
     second: {fileID: 2100000, guid: 3a5a0f4ca83c4a04596aa9ea2d9db2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShalunAsphaltInside
+    second: {fileID: 2100000, guid: b5cd8e8035e061d4d812fa5caa4a54dc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -97,6 +107,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ShalunWhiteSolidFiveStopLineInside
+    second: {fileID: 2100000, guid: 008342997cff25f43b2f35674f436401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ShalunWhiteSolidFourWhiteBrokenSingle
     second: {fileID: 2100000, guid: 94f24fd03bff19e4faa795185f57e70d, type: 2}
   - first:
@@ -154,7 +169,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 100
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -200,7 +215,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 100
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

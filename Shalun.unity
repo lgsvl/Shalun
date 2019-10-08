@@ -156,6 +156,7 @@ MonoBehaviour:
   OriginNorthing: 2546179
   UTMZoneId: 51
   AltitudeOffset: 27.85
+  currentlySelected: 104
   TimeZoneSerialized: Taipei Standard Time;480;(UTC+08:00) Taipei;Taipei Standard
     Time;Taipei Standard Time;;
   TimeZoneString: (UTC+08:00) Taipei

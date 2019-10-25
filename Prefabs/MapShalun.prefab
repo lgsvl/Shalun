@@ -9212,6 +9212,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &1088254258029897522
 GameObject:
@@ -9317,6 +9319,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 21.2, y: 10, z: 15.5}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &1098811726656648399
 GameObject:
@@ -10017,6 +10021,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &1609469793476721528
 GameObject:
@@ -10870,6 +10876,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &1987821914896691901
 GameObject:
@@ -10948,6 +10956,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &2011421850893322075
 GameObject:
@@ -11574,6 +11584,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &2111086173906847203
 GameObject:
@@ -11795,6 +11807,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &2111086174317288551
 GameObject:
@@ -12465,6 +12479,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &2111086175162948253
 GameObject:
@@ -12558,6 +12574,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &2111086175195406907
 GameObject:
@@ -13636,6 +13654,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 26.6, y: 10, z: 29}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &2744570851908883008
 GameObject:
@@ -16004,6 +16024,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &3782689846594064607
 GameObject:
@@ -16527,6 +16549,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 20.4, y: 10, z: 22.1}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &3996282667636162103
 GameObject:
@@ -16577,7 +16601,7 @@ MonoBehaviour:
   - {x: 0.72790587, y: 0, z: 0.018560171}
   - {x: 3.367323, y: 0, z: 0.073515415}
   lineType: 8
-  isStopSign: 0
+  isStopSign: 1
   stopSign: {fileID: 0}
   currentState: 2
 --- !u!1 &4023752609648356472
@@ -27547,6 +27571,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 12.75, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &6235847256101560051
 GameObject:
@@ -45791,6 +45817,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 14.5, y: 10, z: 20.1}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 1
 --- !u!1 &6903545833469318441
 GameObject:
@@ -47195,6 +47223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerBounds: {x: 22.6, y: 10, z: 13.27}
+  npcsInIntersection: []
+  stopQueue: []
   isStopSignIntersection: 0
 --- !u!1 &7398756520108436301
 GameObject:

@@ -159,6 +159,11 @@ MonoBehaviour:
   TimeZoneSerialized: Taipei Standard Time;480;(UTC+08:00) Taipei;Taipei Standard
     Time;Taipei Standard Time;;
   TimeZoneString: (UTC+08:00) Taipei
+  NPCSizeMask: 127
+  NPCMaxCount: 10
+  NPCSpawnBoundSize: 200
+  PedMaxCount: 10
+  PedSpawnBoundSize: 200
   Description: 
   LicenseName: 
 --- !u!4 &413944985

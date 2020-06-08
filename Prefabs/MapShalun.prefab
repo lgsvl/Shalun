@@ -9736,7 +9736,7 @@ MonoBehaviour:
   - {x: 0.0000004917384, y: -0.0000009536743, z: -3.8468428}
   - {x: -0.0000004958849, y: -0.0000009536743, z: 0.0000019024856}
   - {x: 0.0000042766337, y: -0.0000009536743, z: 3.8468437}
-  - {x: 0.0000014007093, y: -0.0000009536743, z: 7.6936893}
+  - {x: -0.38, y: -0.0000009536743, z: 8.79}
   displayLane: 0
   needSelfReverseLane: 0
   isSelfReverseLane: 0
@@ -20199,7 +20199,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2368663026399669374}
-  m_LocalRotation: {x: -0, y: -0.821199, z: -0, w: 0.57064193}
+  m_LocalRotation: {x: 0, y: -0.821199, z: 0, w: 0.57064193}
   m_LocalPosition: {x: 5.6986065, y: -5.0625, z: 4.365221}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -20207,7 +20207,7 @@ Transform:
   - {fileID: 2368663027471125019}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -110.41, z: 0}
 --- !u!114 &2368663026399669373
 MonoBehaviour:
   m_ObjectHideFlags: 0

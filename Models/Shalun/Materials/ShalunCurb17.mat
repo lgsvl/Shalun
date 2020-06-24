@@ -143,6 +143,26 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_1F9E887A_Out_0:
+        m_Texture: {fileID: 2800000, guid: fa1e34b8d8da9324d8d928bf419b4abf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_2E9D0268_Out_0:
+        m_Texture: {fileID: 2800000, guid: 147e6660f860fb843b03112c3e895eb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_3AD6054F_Out_0:
+        m_Texture: {fileID: 2800000, guid: fa1e34b8d8da9324d8d928bf419b4abf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_7D7915AD_Out_0:
+        m_Texture: {fileID: 2800000, guid: 611c91e85dbbbd149bd6aa81d3741c7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_D95F034A_Out_0:
+        m_Texture: {fileID: 2800000, guid: f535e3b3e66c8af4492535abedfa4797, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ThicknessMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -190,6 +210,9 @@ Material:
     - _CullMode: 2
     - _CullModeForward: 2
     - _Cutoff: 0.5
+    - _Damage: 0
+    - _DamageOffset: 0
+    - _DamageOverride: 0
     - _Dampness: 0
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 1
@@ -321,6 +344,7 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
+    - _SegmentationColor: {r: 0.2901961, g: 0.14509805, b: 0.30980393, a: 1}
     - _SemanticColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}

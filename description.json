@@ -1,0 +1,12 @@
+{
+  "name": "Shalun",
+  "accessType": "public",
+  "description": "Non-Digital Twin Version on Taiwan Car Lab Testing Facility (http://taiwancarlab.narlabs.org.tw/index_en.html)",
+  "licenseName": "LG Simulator",
+  "copyright": "LG Electronics Inc.",
+  "tags": [
+    {
+      "name": "test"
+    }
+  ]
+}

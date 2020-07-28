@@ -10,7 +10,7 @@ Material:
   m_Name: ShalunWhiteSolidFourWhiteBrokenSingle
   m_Shader: {fileID: -6465566751694194690, guid: 82b0b03a7ce96ac43b33259f3e9612e9,
     type: 3}
-  m_ShaderKeywords: _NORMALMAP_TANGENT_SPACE
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -114,6 +114,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 611c91e85dbbbd149bd6aa81d3741c7f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_56F4EBF3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 611c91e85dbbbd149bd6aa81d3741c7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A6AF0311_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 611c91e85dbbbd149bd6aa81d3741c7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecularColorMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -171,10 +179,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_18B47B70: 0.122
-    - Vector1_1C1D4CFA: 1
+    - Vector1_18B47B70: 0.1
+    - Vector1_1C1D4CFA: 0.1
     - Vector1_7F305CBD: 0
-    - Vector1_8D5F934C: 0
+    - Vector1_8D5F934C: 2
     - Vector1_98E15DA: 0
     - Vector1_B011: 0
     - Vector1_BEF2E143: 0

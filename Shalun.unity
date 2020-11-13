@@ -1209,13 +1209,14 @@ MonoBehaviour:
   TimeZoneSerialized: Taipei Standard Time;480;(UTC+08:00) Taipei;Taipei Standard
     Time;Taipei Standard Time;;
   TimeZoneString: (UTC+08:00) Taipei
+  IgnoreVisible: 0
+  IgnoreSpawnable: 1
   NPCSizeMask: 127
   NPCMaxCount: 10
   NPCSpawnBoundSize: 200
   PedMaxCount: 10
   PedSpawnBoundSize: 200
   Description: 
-  LicenseName: 
 --- !u!4 &413944985
 Transform:
   m_ObjectHideFlags: 0
@@ -4804,7 +4805,64 @@ Light:
   m_UseBoundingSphereOverride: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!1001 &488383602613953229
+--- !u!1001 &5164038258261026523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1654584468333704, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_Name
+      value: Shalun
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9841802
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.1771706
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
+--- !u!1001 &7328640210964053538
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -4873,60 +4931,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 760920719f6ad1f9685324f81e29120e, type: 3}
---- !u!1001 &5164038258261026523
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1654584468333704, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_Name
-      value: Shalun
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.9841802
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.1771706
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762237100939810, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f2e1ededd1d794340ae1bea37bb2cf73, type: 3}

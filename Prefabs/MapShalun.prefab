@@ -6847,9 +6847,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 4623581700971177252}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: da3575f3-9162-45b4-9bc5-6f34247786f9
   _id: signal_8
 --- !u!1 &244814312090265667
 GameObject:
@@ -7518,9 +7518,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 189712325047985980}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 4e68f8ab-5c7d-4f5c-9a17-5ba12a875e25
   _id: signal_24
 --- !u!1 &552298729871474778
 GameObject:
@@ -7576,9 +7576,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 7676948486207767803}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: ea34554f-f317-4350-8c95-00195b40a659
   _id: signal_6
 --- !u!1 &599465750043740291
 GameObject:
@@ -8732,9 +8732,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 8512144196284931516}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: cd638e3a-4b51-4d12-a322-4009f12d8c77
   _id: signal_16
 --- !u!1 &939488195738709223
 GameObject:
@@ -9464,9 +9464,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 6765782458250629326}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 6c88fbd5-a9c6-46ce-9b51-73edec38da27
   _id: signal_26
 --- !u!1 &1305648942194970364
 GameObject:
@@ -10587,9 +10587,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 4529685387796060516}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 9367f197-391c-4218-ba65-409c42b607f5
   _id: signal_4
 --- !u!1 &1885478208994654918
 GameObject:
@@ -12595,7 +12595,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2368663026399669374}
-  m_LocalRotation: {x: -0, y: -0.9841802, z: -0, w: -0.1771706}
+  m_LocalRotation: {x: 0, y: 0.98418015, z: 0, w: 0.1771706}
   m_LocalPosition: {x: -4.365222, y: -5.0625, z: 5.698606}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12603,7 +12603,7 @@ Transform:
   - {fileID: 2368663027471125019}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 159.59001, z: 0}
 --- !u!114 &2368663026399669373
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14188,9 +14188,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 1951191371980604484}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 50e38f0f-50f8-4dc8-8e3c-de2f33c3e1c4
   _id: signal_22
 --- !u!1 &2730654215111113408
 GameObject:
@@ -19089,9 +19089,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 6357692370575976100}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 75f8b9e5-8fe7-4ede-a3f4-5df1f9759de4
   _id: signal_18
 --- !u!1 &4049869526739000956
 GameObject:
@@ -20230,9 +20230,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 3188662251233222796}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: e2f8b723-a089-4743-834a-2b2f5154f88c
   _id: signal_19
 --- !u!1 &4389033711667632697
 GameObject:
@@ -20288,9 +20288,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 6704990319348894091}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: ca4060ab-0bb9-487d-8fc9-7852bd83ff4e
   _id: signal_14
 --- !u!1 &4411188092980164906
 GameObject:
@@ -23258,9 +23258,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 9067853926868246033}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 4c79e8dd-3deb-479f-967b-6cc26e437bc5
   _id: signal_9
 --- !u!1 &4969753766108561622
 GameObject:
@@ -24026,9 +24026,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 4127173583254456730}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: f056d1fd-2b55-453a-9f42-35d50635fbe3
   _id: signal_13
 --- !u!1 &5247721124018665597
 GameObject:
@@ -24290,9 +24290,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 1688114592063363458}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 5eb8b0a2-ea72-48a7-b7e2-c912daf986f9
   _id: signal_11
 --- !u!1 &5293530506091067937
 GameObject:
@@ -24745,9 +24745,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 4213163463725533918}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: b0dd4b6c-ebd7-4522-9ee1-864043adf1e0
   _id: signal_23
 --- !u!1 &5399503698251204849
 GameObject:
@@ -25072,9 +25072,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 982539899723962185}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: b860790c-20b8-418b-a31d-86dcf8fcac9c
   _id: signal_25
 --- !u!1 &5451571302065030931
 GameObject:
@@ -25316,9 +25316,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 3533180199710495641}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 594b5740-662f-4fe3-8ec9-d96bf388de66
   _id: signal_3
 --- !u!1 &5533877178532569138
 GameObject:
@@ -25630,9 +25630,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 8290749991427966777}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 203ca54a-1298-43b4-9a22-260a7e0955c8
   _id: signal_5
 --- !u!1 &5601907323248325255
 GameObject:
@@ -25959,9 +25959,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 934733460645710998}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: b28c1ff2-03c3-4f1b-b272-7cbe24839c18
   _id: signal_12
 --- !u!1 &5776803052955753672
 GameObject:
@@ -26338,9 +26338,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 3875294375719097564}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 75268de6-dd2e-4bf8-87ba-e1894c2ae429
   _id: signal_15
 --- !u!1 &5983835661368766986
 GameObject:
@@ -26729,9 +26729,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 7187698221192936760}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 352c2787-e9a3-43c4-a40f-d3db1a039aaa
   _id: signal_17
 --- !u!1 &6062729283398326136
 GameObject:
@@ -27713,9 +27713,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 4390087483302238133}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 6d6d0be7-84ea-4385-950f-d2755e51b506
   _id: signal_27
 --- !u!1 &6459726343614094684
 GameObject:
@@ -27771,9 +27771,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 3671830401978593031}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 80ce42d9-b1d4-41f3-9da2-3f3642db2871
   _id: signal_2
 --- !u!1 &6507344726560149568
 GameObject:
@@ -41654,9 +41654,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 8951204195008360868}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 865e28bf-f9f5-40c6-93d4-a1ba3479a526
   _id: signal_20
 --- !u!1 &7829657309648863203
 GameObject:
@@ -41712,9 +41712,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 7455905862020503592}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: a11d55ae-bd65-47ca-b2fb-8b2f3512b438
   _id: signal_21
 --- !u!1 &7838404437551896260
 GameObject:
@@ -42288,9 +42288,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 7104732857152476274}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: e69ecc66-643d-4273-9373-3d4031e9d28c
   _id: signal_0
 --- !u!1 &8087422177269277125
 GameObject:
@@ -42440,9 +42440,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 936053799622563254}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: bcca110a-7935-4adb-8932-84d06ec871d2
   _id: signal_7
 --- !u!1 &8107169803724042190
 GameObject:
@@ -50354,9 +50354,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 206515395391285690}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 30b52f6f-601f-43ab-b3f2-5cd56af94600
   _id: signal_10
 --- !u!1 &8914821256468498700
 GameObject:
@@ -51278,9 +51278,9 @@ MonoBehaviour:
   - localPosition: {x: -0, y: -0.4, z: -0}
     signalColor: 3
   stopLine: {fileID: 3151687259560469324}
-  signalLightMesh: {fileID: 0}
   CurrentSignalLight: {fileID: 0}
   signalType: 5
+  _UID: 3815a575-2ec6-43c0-b448-2dbebea63d05
   _id: signal_1
 --- !u!1 &9221316033125995573
 GameObject:

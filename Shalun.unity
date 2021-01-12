@@ -1209,8 +1209,11 @@ MonoBehaviour:
   TimeZoneSerialized: Taipei Standard Time;480;(UTC+08:00) Taipei;Taipei Standard
     Time;Taipei Standard Time;;
   TimeZoneString: (UTC+08:00) Taipei
-  IgnoreVisible: 0
-  IgnoreSpawnable: 1
+  IgnoreNPCVisible: 0
+  IgnoreNPCSpawnable: 0
+  IgnoreNPCBounds: 0
+  IgnorePedBounds: 0
+  IgnorePedVisible: 0
   NPCSizeMask: 127
   NPCMaxCount: 10
   NPCSpawnBoundSize: 200

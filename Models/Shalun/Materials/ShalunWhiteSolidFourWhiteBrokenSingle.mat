@@ -26,36 +26,32 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_7510551D:
+    - _MaskMap:
         m_Texture: {fileID: 2800000, guid: deec2690230335b4989397bdb27d44d5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_8E1261E7:
+    - _NormalMap:
         m_Texture: {fileID: 2800000, guid: 05a116a78324ce441a960ac144e37d23, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_AF7C252A:
+    - _EmissiveColorMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_B0FD20D1:
+    - _IntensityMap:
         m_Texture: {fileID: 2800000, guid: cde81a409b7d82948b3d923db126da48, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_D8044091:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_FC54B01C:
-        m_Texture: {fileID: 2800000, guid: 02c1fe0b924d6984a8051bd54f01b948, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _AnisotropyMap:
+    - _PuddleMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
         m_Texture: {fileID: 2800000, guid: 02c1fe0b924d6984a8051bd54f01b948, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AnisotropyMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -78,10 +74,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _EmissiveColorMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _HeightMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -96,14 +88,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 02c1fe0b924d6984a8051bd54f01b948, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MaskMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _NormalMap:
-        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -179,12 +163,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_18B47B70: 0.1
-    - Vector1_1C1D4CFA: 0.1
+    - _Smoothness: 0.1
+    - _NormalScale: 0.1
     - Vector1_7F305CBD: 0
-    - Vector1_8D5F934C: 2
+    - _IntensityScale: 2
     - Vector1_98E15DA: 0
-    - Vector1_B011: 0
+    - _EmissiveIntensity: 0
     - Vector1_BEF2E143: 0
     - Vector1_C13AD5F4: 0
     - Vector1_F77B9255: 0
@@ -238,7 +222,6 @@ Material:
     - _DstBlend: 0
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
-    - _EmissiveIntensity: 1
     - _EmissiveIntensityUnit: 0
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
@@ -266,7 +249,6 @@ Material:
     - _MaterialID: 1
     - _Metallic: 0
     - _NormalMapSpace: 0
-    - _NormalScale: 1
     - _PPDLodThreshold: 5
     - _PPDMaxSamples: 15
     - _PPDMinSamples: 5
@@ -281,7 +263,6 @@ Material:
     - _SSRefractionProjectionModel: 0
     - _ShiverDirectionality: 0.5
     - _ShiverDrag: 0.2
-    - _Smoothness: 0.5
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
     - _SpecularAAScreenSpaceVariance: 0.1
@@ -325,10 +306,10 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - Vector2_4A7349FB: {r: 1, g: 1, b: 0, a: 0}
+    - _NormalMap_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - Vector2_967CE9B4: {r: 1, g: 1, b: 0, a: 0}
-    - Vector2_B8BDBAD6: {r: 1, g: 1, b: 0, a: 0}
-    - Vector2_E53862F5: {r: 1, g: 1, b: 0, a: 0}
+    - _MaskMap_Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColorMap_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - Vector3_A9CF2178: {r: 0, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
